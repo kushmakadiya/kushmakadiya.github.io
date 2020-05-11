@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+
+#background{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(130,29,253);
+    background: linear-gradient(342deg, rgba(130,29,253,1) 17%, rgba(252,155,69,1) 100%);
+}
+
+#can{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #252525;
+    background: rgb(130,29,253);
+    background: linear-gradient(342deg, rgba(130,29,253,1) 17%, rgba(252,155,69,1) 100%);
+}
