@@ -235,6 +235,6 @@ function Tile(left, n){
         c.fillStyle = "#FFFFFF";
         c.textAlign = "center";
         c.font = "30px Arial";
-        c.fillText("tap", Math.round(this.left * width + width/2), Math.round(top * height + height/2));
+        c.fillText("Tap", Math.round(this.left * width + width/2), Math.round(top * height + height/2));
     }
 }
