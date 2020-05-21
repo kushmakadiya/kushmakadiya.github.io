@@ -1,0 +1,33 @@
+body {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     font-family: sans-serif;
+}
+
+td,tr, table {
+    border: solid thin;
+    border-collapse: collapse;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    text-align: center;
+    font-size: 2em;
+}
+
+button {
+    padding: 5px;
+    background: darkred;
+    color: white;
+}
+
+#turn {
+    position: middle;
+    top: 5px;
+    left: 5px;
+}
