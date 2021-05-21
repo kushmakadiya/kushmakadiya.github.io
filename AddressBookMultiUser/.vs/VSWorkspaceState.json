@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AdminPanel",
+    "\\AdminPanel\\BloodGroup",
+    "\\AdminPanel\\City",
+    "\\AdminPanel\\Contact",
+    "\\AdminPanel\\ContactCategory"
+  ],
+  "SelectedNode": "\\AdminPanel\\Contact\\ContactAddEdit.aspx",
+  "PreviewInSolutionExplorer": false
+}
